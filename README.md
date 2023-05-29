@@ -63,7 +63,7 @@ HTML5 & CSS3
 
 ### Key Features <a name="key-features"></a>
 
-- **[displays Hello World]**
+- **[displays Hello Microverse]**
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
